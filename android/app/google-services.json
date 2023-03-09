@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "844508978157",
+    "firebase_url": "https://kyrkjakt-2fe15-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kyrkjakt-2fe15",
+    "storage_bucket": "kyrkjakt-2fe15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844508978157:android:e362d9095237e5b408a5e4",
+        "android_client_info": {
+          "package_name": "com.askeby.kyrkjakten"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844508978157-e1pub60qp0ohton086omqfe824piqiho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHf6RGxDuCCyx0JIhk2W0Dh-il_V4BPWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844508978157-e1pub60qp0ohton086omqfe824piqiho.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "844508978157-9khmfjle7okpveq0si6gi4v5scljf1df.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kyrkjakt"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844508978157:android:7ef6c5d2f38424c608a5e4",
+        "android_client_info": {
+          "package_name": "com.example.kyrkjakt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844508978157-e1pub60qp0ohton086omqfe824piqiho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHf6RGxDuCCyx0JIhk2W0Dh-il_V4BPWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844508978157-e1pub60qp0ohton086omqfe824piqiho.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "844508978157-9khmfjle7okpveq0si6gi4v5scljf1df.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kyrkjakt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

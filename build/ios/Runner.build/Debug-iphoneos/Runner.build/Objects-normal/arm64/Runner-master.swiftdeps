@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "20c4b650f9c5811e0fe0a7450198668a"
+build_time: [1623057310, 689606000]
+inputs:
+  "/Users/jennyrudemo/Documents/Code/Kyrkjakt/kyrkjakt-mobilapp/ios/Runner/AppDelegate.swift": [1614761784, 80849056]

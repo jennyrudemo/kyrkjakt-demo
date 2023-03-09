@@ -1,0 +1,101 @@
+{
+    "church_select_welcome": ["VÄLKOMMEN TILL", "WELCOME TO"],
+    "church_select_title": ["VID ASKEBY KYRKA", "AT ASKEBY KYRKA"],
+    "church_select_hint": ["KLICKA PÅ KNAPPEN FÖR ATT STARTA SPELET", "PRESS THE BUTTON TO BEGIN THE GAME"],
+
+    "game_button_description": [
+      "Starta ett äventyr som kommer leda dig runt kyrkan...",
+      "Start an adventure that will take you around the church..."
+    ],
+    "progress_button_title": ["PRISER", "AWARDS"],
+    "help_button_title": ["HJÄLP", "HELP"],
+
+    "progress_screen_title": ["UTFÖRDA SPEL", "COMPLETED GAMES"],
+    "progress_text1": [
+      "Hoppa in och börja spela och kom tillbaka hit senare för att se dina prestationer!",
+      "Jump in and start playing, and come back later to see your progress!"
+    ],
+    "progress_text2": [
+      "Fortsätt köra aktiviteter! Du har snart klarat hälften!",
+      "Keep playing! You have almost done half of the activities!"
+    ],
+    "progress_text3": [
+      "Bra jobbat med aktiviteterna! Fortsätt köra så har du snart klarat alla som finns i denna kyrka!",
+      "Good work with the activities! Keep playing and soon you will have done them all!"
+    ],
+    "progress_text4": [
+      "Snyggt kört! Du har klarat ALLA aktiviteter i denna kyrka! Wow!!",
+      "Nice job! You have completed ALL of the activities at this church!"
+    ],
+
+    "pre_activity_completed": [
+      "avklarad",
+      "completed"
+    ],
+    "all_activities_completed": [
+      "DU HAR KLARAT ALLA SPEL!",
+      "YOU COMPLETED ALL THE GAMES!"
+    ],
+    "pre_activity_lower_difficulty": [
+      "Sänk svårighetsgraden",
+      "Lower the difficulty"
+    ],
+    "game_button_play_again": [
+      "Spela igen!",
+      "Play again!"
+    ],
+    "game_button_play_again_description": [
+      "Börja om äventyret från början...",
+      "Restart the adventure from the beginning..."
+    ],
+    "game_button_continue_playing": [
+      "Fortsätt spela",
+      "Continue playing"
+    ],
+    "game_button_continue_playing_description": [
+      "Fortsätt spela från där du senast sluta",
+      "Continue from where you last left off"
+    ],
+    "post_activity_title": [
+      "Bra jobbat!",
+      "Great job!"
+    ],
+
+    "wrong_answer_feedback_title": [
+      "Fel svar",
+      "Wrong answer"
+    ],
+    "wrong_answer_feedback_description": [
+      "Tyvärr är det fel svar, men testa igen! Om du har fastnat, klicka på frågetecknet i hörnet för en ledtråd",
+      "You answered wrong, but try again! If you are stuck, try pressing the question mark in the corner to get a clue!"
+    ],
+    
+    "help":["HJÄLP", "HELP"],
+    "help_content":[
+      "Klicka på knappen “Spela” för att starta spelet. Instruktioner om spelet kommer att komma fram, läs dem innan du klickar på spela. Ifall du behöver ledtråd finns en symbol “?” (frågetecken) och för att få mer information om artefakten klickar du på symbolen “i”. För att se hur många spel du har klarat, klicka på knappen “Priser”. Du kan alltid återvända till hemskärmen genom att klicka på den blåa knappen med hem-ikonen.",
+      "Press the button “Play” to start the game round and instructions to the game will pop up, read these before pressing the play button. In case you need a clue, press the button with the symbol “?” (question mark). To get more information about the artefact, press the symbol “i”. To see how many games you have completed, press the button “Awards”. To go back to the home screen, press the blue button with the home icon."
+    ],
+    "about":["OM KYRKJAKTEN", "ABOUT KYRKJAKTEN"],
+    "about_content":[" Kyrkjakten är utvecklad under ett kandidatprojekt på Civilingejörsprogrammet i Medieteknik vid Linköpings Universitet under våren 2021. Appen är utvecklad för Askeby kyrka i Åkerbo församling, som är en del av Svenska Kyrkan. \n Vi som har gjort appen är David Styrbjörn, Jessie Chow, Anna Wästling, Jenny Rudemo och Fei Alm. \n \n Version 1.0 \n 2021",
+      "Kyrkjakten is developed as a bachelor's project at the Master of Science programme in Media Techology and Engineering at Linköping University during Spring 2021. The app is developed for Askeby Church in the parish of Åkerbo, part of the Church of Sweden (Svenska Kyrkan). \n The app was developed by David Styrbjörn, Jessie Chow, Anna Wästling, Jenny Rudemo and Fei Alm. \n \n Version 1.0 \n 2021"
+    ],
+
+    "activity_not_available_description": [
+      "Denna aktivitet är tyvärr inte tillgänglig eftersom du inte gett appen tillåtelse att använda kameran. Det kan också vara så att din telefon inte stödjer AR. Gå till nästa aktivitet genom att klicka på knappen här under.",
+      "Unfortunately, this activity is not available since you have not given the app permission to use the camera, or your phone does not support AR. Go to the next activity by clicking on the button below."
+    ],
+
+    "at": ["vid", "at"],
+    "home": ["HEM", "HOME"],
+    "play": ["SPELA", "PLAY"],
+    "begin": ["BÖRJA", "BEGIN"],
+    "skip": ["SKIPPA", "SKIP"],
+    "submit": ["SVARA", "SUBMIT"],
+    "back": ["STÄNG", "CLOSE"],
+    "clue": ["LEDTRÅD", "CLUE"],
+    "start": ["STARTA", "START"],
+    "continue": ["FORTSÄTT", "CONTINUE"],
+    "next_activity": ["NÄSTA AKTIVITET", "NEXT ACTIVITY"],
+    "language": ["SPRÅK", "LANGUAGE"],
+    "loading": ["LADDAR", "LOADING"]
+}
